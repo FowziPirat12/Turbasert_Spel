@@ -1,7 +1,10 @@
-﻿using Susyem; 
-using Turbaserat_Spel;
+﻿using System;
+using Turbasert_Spel;
 
-static void Main(string[]args)
-{
-    
+class Program
+{ 
+    static void Main(string[]args)
+    {
+       
+    } 
 }

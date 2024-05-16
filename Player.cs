@@ -1,24 +1,41 @@
+using System.Data;
+using Turbasert_Spel1;
+
 namespace Turbasert_Spel
 {
-    public class Player
+     class Player: Character, IDamage
     {
-        protected string name;
-        protected int hp; 
+        private int damage = 10;
 
-        public string Name 
+        public int Damage
         {
-            get {return name;}
-            set {name = value;}
+            get {return damage;}
         }
 
-        public Player (string name, int hp)
+        public void DealDamage(string target)
         {
-            this.name = name; 
-            this.hp  = hp;
+            Console.WriteLine("Player deals " + Damage + " damage to"  + target);
         }
- 
 
+        public Player (string name, int hp): base(name, hp)
+        {
 
+        }
+
+        public override void Print()
+        {
+            Console.WriteLine($"Name: {name}");
+            Console.WriteLine($"HP: {hp}");
+        }
+
+        public override void TakeDamage(int Tdamage)
+        {
+            Hp -= damage; 
+            Console.WriteLine($"{name} takes damage!");
+            Console.WriteLine($"{name} current health: {hp}");
+        }
+
+        
 
     }
 }

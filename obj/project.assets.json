@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Turbasert_Spel1\\Turbasert_Spel.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Turbasert_Spel\\Turbasert_Spel.csproj",
       "projectName": "Turbasert_Spel",
-      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Turbasert_Spel1\\Turbasert_Spel.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Turbasert_Spel\\Turbasert_Spel.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Turbasert_Spel1\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Turbasert_Spel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

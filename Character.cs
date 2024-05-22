@@ -5,11 +5,12 @@ namespace Turbasert_Spel1
         protected string name;
         protected int hp; 
 
-        private int damage = 10;
+        private int damage = 20;
 
         public int Damage
         {
             get {return damage;}
+            set {damage = value;}
         }
 
         public string Name 

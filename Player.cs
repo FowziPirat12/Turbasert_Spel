@@ -5,14 +5,14 @@ namespace Turbasert_Spel
 {
      class Player: Character, IDamage
     {
-        private int damage = 10;
+        private int damage = 20;
 
-        public int Damage
+        public int Damages
         {
             get {return damage;}
         }
 
-        public void DealDamage(string target)
+        public void DealDamages(string target)
         {
             Console.WriteLine("Player deals " + Damage + " damage to"  + target);
         }

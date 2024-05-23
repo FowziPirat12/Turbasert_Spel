@@ -26,3 +26,17 @@ C:\Users\Admin\Documents\GitHub\Turbasert_Spel\obj\Debug\net7.0\refint\Turbasert
 C:\Users\Admin\Documents\GitHub\Turbasert_Spel\obj\Debug\net7.0\Turbasert_Spel.pdb
 C:\Users\Admin\Documents\GitHub\Turbasert_Spel\obj\Debug\net7.0\Turbasert_Spel.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\Turbasert_Spel\obj\Debug\net7.0\ref\Turbasert_Spel.dll
+C:\Users\Admin\Documents\GitHub\Turbasert_Spel2\bin\Debug\net7.0\Turbasert_Spel.exe
+C:\Users\Admin\Documents\GitHub\Turbasert_Spel2\bin\Debug\net7.0\Turbasert_Spel.deps.json
+C:\Users\Admin\Documents\GitHub\Turbasert_Spel2\bin\Debug\net7.0\Turbasert_Spel.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Turbasert_Spel2\bin\Debug\net7.0\Turbasert_Spel.dll
+C:\Users\Admin\Documents\GitHub\Turbasert_Spel2\bin\Debug\net7.0\Turbasert_Spel.pdb
+C:\Users\Admin\Documents\GitHub\Turbasert_Spel2\obj\Debug\net7.0\Turbasert_Spel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Turbasert_Spel2\obj\Debug\net7.0\Turbasert_Spel.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Turbasert_Spel2\obj\Debug\net7.0\Turbasert_Spel.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Turbasert_Spel2\obj\Debug\net7.0\Turbasert_Spel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Turbasert_Spel2\obj\Debug\net7.0\Turbasert_Spel.dll
+C:\Users\Admin\Documents\GitHub\Turbasert_Spel2\obj\Debug\net7.0\refint\Turbasert_Spel.dll
+C:\Users\Admin\Documents\GitHub\Turbasert_Spel2\obj\Debug\net7.0\Turbasert_Spel.pdb
+C:\Users\Admin\Documents\GitHub\Turbasert_Spel2\obj\Debug\net7.0\Turbasert_Spel.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Turbasert_Spel2\obj\Debug\net7.0\ref\Turbasert_Spel.dll

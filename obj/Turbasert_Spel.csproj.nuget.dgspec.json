@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\Turbasert_Spel\\Turbasert_Spel.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\Turbasert_Spel2\\Turbasert_Spel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\Turbasert_Spel\\Turbasert_Spel.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\Turbasert_Spel2\\Turbasert_Spel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Turbasert_Spel\\Turbasert_Spel.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Turbasert_Spel2\\Turbasert_Spel.csproj",
         "projectName": "Turbasert_Spel",
-        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Turbasert_Spel\\Turbasert_Spel.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Turbasert_Spel2\\Turbasert_Spel.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Turbasert_Spel\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Turbasert_Spel2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

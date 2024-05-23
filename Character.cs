@@ -1,11 +1,11 @@
 namespace Turbasert_Spel1
 {
-    abstract class Character
+    public abstract class Character
     {
         protected string name;
         protected int hp; 
 
-        private int damage = 20;
+        protected int damage = 20;
 
         public int Damage
         {
@@ -22,7 +22,7 @@ namespace Turbasert_Spel1
         public int Hp 
         {
             get {return hp;}
-            set {value = hp;}
+            set {hp = value;}
         }
 
         
@@ -38,7 +38,7 @@ namespace Turbasert_Spel1
 
         public void DealDamage(string target)
         {
-            Console.WriteLine("Player deals " + Damage + " damage to"  + target);
+            Console.WriteLine("Player deals " + damage + " damage to"  + target);
         }
  
     }
